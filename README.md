@@ -1,4 +1,4 @@
-# gt-corpus
+# Global Talent Knowledge Corpus
 
 Run the [gt.winterchill.xyz](https://gt.winterchill.xyz) forum chat **entirely on your own
 machine** — no accounts on our side, no infrastructure, just your own OpenRouter key.
