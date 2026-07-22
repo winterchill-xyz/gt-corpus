@@ -39,6 +39,12 @@ milliseconds, no vector DB needed), an FTS5 index, and `meta` (model/dim/version
 date). Build your own tools directly on it — embeddings decode with
 `np.frombuffer(blob, dtype="<f2")` / a `Uint16Array` + half-float table.
 
+## License
+
+Code is **MIT** (see [LICENSE](LICENSE)). The corpus content in `data/` is user-generated
+forum text and remains © its authors — see the data notes below; the MIT grant does not
+apply to it.
+
 ## Data notes
 
 - Threads are community experience, **not official policy and not legal advice** — verify
